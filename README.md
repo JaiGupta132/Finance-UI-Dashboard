@@ -7,16 +7,6 @@ The live preview link is https://finance-ui-dashboard-blond.vercel.app/
 
 No build tools or dependencies needed. Just open `index.html` in any modern browser.
 
-```bash
-# Option 1: Direct open
-open index.html
-
-# Option 2: Local server (recommended)
-npx serve .
-# or
-python -m http.server 8000
-```
-
 ## Features
 
 ### Dashboard Overview
